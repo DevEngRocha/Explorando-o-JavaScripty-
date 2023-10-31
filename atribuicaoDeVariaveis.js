@@ -9,3 +9,4 @@ console.log('Meu nome é ${nome} ${sobreNome}');
 
 nome = nome +sobreNome;
 
+const Diego = 22;
