@@ -7,3 +7,6 @@ const Cuiaba = "Cuiaba";
 const listaDestino = new Array("salvador", "Rio", "Cuiaba");
 console.log(listaDestino);
 
+listaDestino.push("Curitiba"); //Adicionando um novo item na lista
+
+
