@@ -1,7 +1,8 @@
 //Trabalhando com Condicionais
 
 function condicionais() {
-    const listaDestino = new Array("salvador", "Rio", "Cuiaba");
+    const listaDestino = new Array
+    ("salvador", "Rio", "Cuiaba");
 
     const idadeComprador = 18;
     const estarAcompanhada = false;
